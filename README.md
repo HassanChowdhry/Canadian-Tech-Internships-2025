@@ -76,3 +76,6 @@ To contribute:
 | [↳](https://jobs.rbc.com/ca/en/job/R-0000096976/2025-Winter-Student-Opportunities-Technology-Operations-Software-Developer-12-months) | Toronto | open ✅ | 2025 Winter Student Opportunities Technology & Operations - Software Developer, 12 months | unknown
 | [↳](https://jobs.rbc.com/ca/en/job/R-0000096973/2025-Winter-Student-Opportunities-Technology-Operations-Software-Developer-8-Months) | Toronto | open ✅ | 2025 Winter Student Opportunities Technology & Operations - Software Developer, 8 Months | unknown
 | [↳](https://jobs.rbc.com/ca/en/featuredopportunities/student-early-talent-jobs?from=50&s=1&rk=l-student-early-talent) | Montreal, Toronto, Calgary | open ✅ | Multiple | unknown
+| [Dropbox](https://jobs.dropbox.com/listing/6209863?gh_src=aonhf1) | Remote | open ✅ | Software Engineer Intern (Summer 2025) | Date Posted
+| [Cambio Earth System](https://bgcengineering.bamboohr.com/careers/361) | Vancouver, British Columbia | open ✅ | Test Automation Developer Co-op | Date Posted
+| [Company Name](link) | Location | open ✅ / closed 🚫 | Role | Date Posted
