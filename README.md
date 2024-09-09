@@ -15,7 +15,8 @@ To contribute:
 | Company | Location | Status | Role | Date Posted
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------- | ----------------------- | --------------------------------------------------------------------------------------------------------- | -----------
 | [Company Name / ↳](link) | Location | open ✅ / closed 🚫 | Role | Date Posted
-| [SAP](https://jobs.sap.com/job/Vancouver-SAP-iXp-Intern-Agile-Developer%2C-HANA-and-Analytics-Vancouver-Brit-V6B-1A9/1080794601/) | Vancouver, British Columbia | open ✅ | Agile Developer, HANA and Analytics | Sep 6 |
+| [Plotly](https://boards.greenhouse.io/plotly/jobs/7630263002) | Remote Canada | open ✅ | Software Engineering Intern - 2025 Winter (8 Months) | Sep 9
+| [SAP](https://jobs.sap.com/job/Vancouver-SAP-iXp-Intern-Agile-Developer%2C-HANA-and-Analytics-Vancouver-Brit-V6B-1A9/1080794601/) | Vancouver, British Columbia | open ✅ | Agile Developer, HANA and Analytics | Sep 6 
 | [intact](https://careers.intactfc.com/ca/en/job/R142498/Full-Stack-Developer-4-month-Co-op-Internship-Winter-2025) | Montréal, Quebec | open ✅ | Full Stack Developer – 4-month Co-op/Internship (Winter 2025) | Sep 9
 | [↳](https://careers.intactfc.com/ca/en/job/IFCOUSR142279INTACTINSURANCEENCA/AI-Backend-Developer-4-Month-Co-op-Internship-Winter-2025?utm_source=linkedin&utm_medium=phenom-feeds) | Toronto, Ontario | open ✅ | AI Backend Developer – 4 Month Co-op/Internship (Winter 2025) | Sep 9
 | [↳](https://careers.intactfc.com/ca/fr/job/IFCOUSR142312INTACTINSURANCEFRCA/Data-Scientist-4-Month-Co-op-Internship-Winter-2025?utm_source=linkedin&utm_medium=phenom-feeds) | Vancouver, British Columbia | open ✅ | Data Scientist - 4 Month Co-op/Internship | Sep 9
