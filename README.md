@@ -14,7 +14,13 @@ To contribute:
 
 | Company | Location | Status | Role | Date Posted
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------- | ----------------------- | --------------------------------------------------------------------------------------------------------- | -----------
-| [Company Name](link) | Location | open ✅ / closed 🚫 | Role | Date Posted
+| [Company Name / ↳](link) | Location | open ✅ / closed 🚫 | Role | Date Posted
+| [intact](https://careers.intactfc.com/ca/en/job/R142498/Full-Stack-Developer-4-month-Co-op-Internship-Winter-2025) | Montréal, Quebec | open ✅ | Full Stack Developer – 4-month Co-op/Internship (Winter 2025) | Sep 9
+| [↳]([link](https://careers.intactfc.com/ca/en/job/IFCOUSR142279INTACTINSURANCEENCA/AI-Backend-Developer-4-Month-Co-op-Internship-Winter-2025?utm_source=linkedin&utm_medium=phenom-feeds)) | Toronto, Ontario | open ✅ | AI Backend Developer – 4 Month Co-op/Internship (Winter 2025) | Sep 9
+| [↳](https://careers.intactfc.com/ca/fr/job/IFCOUSR142312INTACTINSURANCEFRCA/Data-Scientist-4-Month-Co-op-Internship-Winter-2025?utm_source=linkedin&utm_medium=phenom-feeds) | Vancouver, British Columbia | open ✅ | Data Scientist - 4 Month Co-op/Internship | Sep 9
+| [↳](https://careers.intactfc.com/ca/en/search-results?qcountry=Canada) | Toronto, Vancouver, Montreal | open ✅ | Multiple Positions | Sep 9
+| [Microsoft](https://jobs.careers.microsoft.com/global/en/job/1750384/Software-Engineer---The-Coalition-Winter-Internship-Opportunities) | Vancouver, British Columbia | open ✅ | Software Engineer - The Coalition Winter Internship Opportunities | Aug 13
+| [↳](https://jobs.careers.microsoft.com/global/en/job/1750386/Software-Engineer%3A-Internship-Opportunities%2C-Vancouver%2C-BC) | Vancouver, British Columbia | open ✅ | Software Engineer: Internship Opportunities, Vancouver, BC | Aug 13
 | [Ericsson](https://career2.successfactors.eu/career?company=Ericsson&career_ns=job_application&src=Eightfold&career_job_req_id=752282&domain=ericsson.com&location=Canada&pid=563121760438106&sort_by=relevance) | Quebec | open ✅  | Developer Intern | Unkown
 | [↳](https://career2.successfactors.eu/career?company=Ericsson&career_ns=job_application&src=Eightfold&career_job_req_id=753860&domain=ericsson.com&pcs_jobs_card_index=2&location=Canada&pid=563121760897127&sort_by=relevance) | Quebec | open ✅  | Full Stack Software Developer Intern | Unkown
 | [↳](https://career2.successfactors.eu/career?company=Ericsson&career_ns=job_application&src=Eightfold&career_job_req_id=753768&domain=ericsson.com&pcs_jobs_card_index=4&location=Canada&pid=563121760894641&sort_by=relevance) | Quebec | open ✅  | Software Developer Coop Winter 2025 | Unkown
@@ -83,4 +89,3 @@ To contribute:
 | [↳](https://jobs.rbc.com/ca/en/featuredopportunities/student-early-talent-jobs?from=50&s=1&rk=l-student-early-talent) | Montreal, Toronto, Calgary | open ✅ | Multiple | unknown
 | [Dropbox](https://jobs.dropbox.com/listing/6209863?gh_src=aonhf1) | Remote | open ✅ | Software Engineer Intern (Summer 2025) | Date Posted
 | [Cambio Earth System](https://bgcengineering.bamboohr.com/careers/361) | Vancouver, British Columbia | open ✅ | Test Automation Developer Co-op | Date Posted
-| [Company Name](link) | Location | open ✅ / closed 🚫 | Role | Date Posted
