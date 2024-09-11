@@ -13,8 +13,8 @@ To contribute:
 ## 🤓 2025 Applications
 
 | Company | Location | Status | Role | Date Posted
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------- | ----------------------- | --------------------------------------------------------------------------------------------------------- | -----------
-| [Company Name / ↳](link) | Location | open ✅ / closed 🚫 | Role | Date Posted
+| --------- | -------- | ------- | -------------------- | -------
+| **Company Name / ↳** | Location | open ✅ / closed 🚫 | Role | Date Posted
 | [Amazon](https://www.amazon.jobs/en/jobs/2770360/neuron-compiler-software-engineer-intern-annapurna-ml) | Toronto | open ✅ | Neuron Compiler Software Engineer Intern, Annapurna ML | Sep 10
 | [Dash Hudson](https://www.linkedin.com/jobs/view/development-intern-at-dash-hudson-4021747333/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic&originalSubdomain=ca) | Halifax, NS | open ✅ | Development Intern | Sep 10
 | [Kinaxis](https://careers-kinaxis.icims.com/jobs/31941/co-op-intern-site-reliability-engineer/job) | Ottawa | open ✅ | Co-op/Intern Site Reliability Engineer | Sep 10
