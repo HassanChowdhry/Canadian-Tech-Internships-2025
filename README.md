@@ -2,6 +2,8 @@
 
 List of Canadian tech companies that are hiring interns for 2025 that are interested in tech, SWE, and related fields. Thanks to [Jenn Dryden](https://github.com/jenndryden/Canadian-Tech-Internships-Summer-2024) who made a similar repo for 2024 Canadian internships.
 
+Feel free to contribute however you can! Sharing and starring the repository really helps as well. Thanks for the support!
+
 To contribute:
 
 1. Fork repository
