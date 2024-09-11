@@ -15,6 +15,31 @@ To contribute:
 | Company | Location | Status | Role | Date Posted
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------- | ----------------------- | --------------------------------------------------------------------------------------------------------- | -----------
 | [Company Name / ↳](link) | Location | open ✅ / closed 🚫 | Role | Date Posted
+| [Kinaxis](https://careers-kinaxis.icims.com/jobs/31941/co-op-intern-site-reliability-engineer/job) | Ottawa | open ✅ | Co-op/Intern Site Reliability Engineer | Sep 10
+| [Huawei](https://huaweicanada.recruitee.com/o/co-op-engineer-big-data-2?source=LinkedIn) | Vancouver | open ✅ | Co-op Engineer - AI & Big Data | Sep 10
+| [↳](https://huaweicanada.recruitee.com/o/co-op-assistant-software-engineer-mobile-ai-2-3?source=LinkedIn) | Markhan, ON | open ✅ | Co-op Assistant Engineer - Mobile AI | Sep 10
+| [↳](https://huaweicanada.recruitee.com/all-of-our-positions) | Various | open ✅ | Multiple | Sep 1 - 10
+| [Scotiabank](https://jobs.scotiabank.com/job/Toronto-Velocity-Data-Engineer-InternshipCo-Op-Winter-2025-ON/584011017/?utm_source=careerbeacon&utm_medium=distro&utm_campaign=refer) | Toronto | open ✅ | Velocity - Data Engineer Internship/Co-Op - Winter 2025 [Scotiabank]  | Sep 10
+| [↳](https://jobs.scotiabank.com/go/Student-&-New-Grad-Jobs/2298417/) | Various | open ✅ | Multiple | Aug 26 - Sep 10
+| [Botpress](https://www.linkedin.com/jobs/view/4020625478/?alternateChannel=search&refId=4LFmd3LsKWO6R6R6ICbwZQ%3D%3D&trackingId=EMbHPytJo7mwY2t%2B5W6UdA%3D%3D) | Montreal | open ✅ | Developer Relations - Internship WINTER 2025 | Sep 10
+| [Super.com](https://jobs.lever.co/super-com/4cbcde78-1d89-49b7-8c56-9a1b1820842a) | Remote | open ✅ | Software Engineering Intern - Fullstack (Product) - (Remote) Waterloo Winter 2025 | Sep 10
+| [↳](https://jobs.lever.co/super-com/fb2a12cf-34a3-4083-9035-587ed67385c8) | Remote | open ✅ | Software Engineering Intern - Infrastructure/DevOps (Remote) Waterloo Winter 2025 | Sep 10
+| [↳](https://jobs.lever.co/super-com/c3bf50f6-9ebc-46df-b9a0-145742a76f75) | Remote | open ✅ | Software Engineering Intern - Internal Tools - (Remote) Waterloo Winter 2025 | Sep 10
+| [↳](https://jobs.lever.co/super-com) | Remote | open ✅ | Multiple | Sep 10
+| [Lumentum](https://lumentum.wd5.myworkdayjobs.com/en-US/LITE/job/Canada---Ottawa-Bill-Leathem/Software-Automation-Engineer-Co-op-Intern_2024951?workerSubType=01232ead616f017c8740653e6310c31d&workerSubType=01232ead616f01895fdd7a406310c91d&workerSubType=01232ead616f01ef5e875b3e6310c01d&workerSubType=01232ead616f01f13b935e3e6310c11d&locations=01232ead616f01726660254a6810e472) | Ottawa | open ✅ | Software Automation Engineer Co-op/Intern | Sep 9
+| [↳](https://lumentum.wd5.myworkdayjobs.com/en-US/LITE/job/Canada---Ottawa-Bill-Leathem/Solution-Software-System-Engineer--Coop-_2024796?workerSubType=01232ead616f017c8740653e6310c31d&workerSubType=01232ead616f01895fdd7a406310c91d&workerSubType=01232ead616f01ef5e875b3e6310c01d&workerSubType=01232ead616f01f13b935e3e6310c11d&locations=01232ead616f01726660254a6810e472) | Ottawa | open ✅ | Solution Software System Engineer (Coop) | Sep 1
+| [↳](https://lumentum.wd5.myworkdayjobs.com/en-US/LITE/details/Software-Automation-Engineer-Co-op-Intern_2024951?workerSubType=01232ead616f017c8740653e6310c31d&workerSubType=01232ead616f01895fdd7a406310c91d&workerSubType=01232ead616f01ef5e875b3e6310c01d&workerSubType=01232ead616f01f13b935e3e6310c11d&locations=01232ead616f01726660254a6810e472) | Ottawa | open ✅ | Multiple | Sep 1 - 9
+| [picovoice](https://picovoice.ai/careers/software-engineer-intern/) | Vancouver | open ✅ | Software Engineer Intern | Sep 3
+| [Fidelity](https://fil.wd3.myworkdayjobs.com/fidelitycanada/job/Toronto-Office/Student--Investly-Software-Development--Winter-2025-Co-op-Term-_J53234?source=LinkedIn) | Toronto | open ✅ | Student, Investly Software Development (Winter 2025 Co-op Term) | Sep 9
+| [Mondelēz International](https://wd3.myworkdaysite.com/recruiting/mdlz/External/job/Toronto-Canada/Data-Scientist-Intern_R-120903?src=SNS-12680) | Toronto | open ✅ | Data Scientist Intern | Sep 9
+| [EA](https://ea.gr8people.com/jobs/185780/data-analyst-intern?geo_location=ChIJpTvG15DL1IkRd8S0KlBVNTI) | Toronto, Vancouver, Montreal | open ✅ | Data Analyst Intern | Unknown
+| [Morgan Stanley](https://morganstanley.tal.net/vx/candidate/apply/17081) | Calgary | open ✅ | 2025 Technology Spring Co-op Program (Calgary) | Unkown
+| [↳](https://morganstanley.tal.net/vx/candidate/apply/17080) | Calgary | open ✅ | 2025 Technology Summer Analyst Program (Calgary) | Unkown
+| [↳](https://morganstanley.tal.net/vx/candidate/apply/17073) | Montreal | open ✅ | 2025 Technology Summer Analyst Program (Montreal) | Unkown
+| [Cerebas](https://cerebras.ai/careers/?gh_jid=5731075003) | Toronto | open ✅ | DevOps Engineer - Internship (PEY 2025) | Unkown
+| [↳](https://cerebras.ai/careers/?gh_jid=4696427003) | Toronto | open ✅ | Machine Learning Software Engineer - Internship (PEY 2025) | Unknown
+| [↳](https://cerebras.ai/careers/?gh_jid=4723960003) | Toronto | open ✅ | ML Developer - Software Automation & Developer Infrastructure Intern (PEY 2025) | Unknown
+| [↳](https://cerebras.ai/careers/department/?department_id=all) | Toronto | open ✅ | Multiple | Unknown
 | [Plotly](https://boards.greenhouse.io/plotly/jobs/7630263002) | Remote Canada | open ✅ | Software Engineering Intern - 2025 Winter (8 Months) | Sep 9
 | [SAP](https://jobs.sap.com/job/Vancouver-SAP-iXp-Intern-Agile-Developer%2C-HANA-and-Analytics-Vancouver-Brit-V6B-1A9/1080794601/) | Vancouver, British Columbia | open ✅ | Agile Developer, HANA and Analytics | Sep 6
 | [intact](https://careers.intactfc.com/ca/en/job/R142498/Full-Stack-Developer-4-month-Co-op-Internship-Winter-2025) | Montréal, Quebec | open ✅ | Full Stack Developer – 4-month Co-op/Internship (Winter 2025) | Sep 9
