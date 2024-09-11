@@ -13,8 +13,8 @@ To contribute:
 ## 🤓 2025 Applications
 
 | Company | Location | Status | Role | Date Posted
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------- | ----------------------- | --------------------------------------------------------------------------------------------------------- | -----------
-| [Company Name / ↳](link) | Location | open ✅ / closed 🚫 | Role | Date Posted
+| --------- | -------- | ------- | -------------------- | ------- 
+| **Company Name / ↳** | Location | open ✅ / closed 🚫 | Role | Date Posted
 | [Kinaxis](https://careers-kinaxis.icims.com/jobs/31941/co-op-intern-site-reliability-engineer/job) | Ottawa | open ✅ | Co-op/Intern Site Reliability Engineer | Sep 10
 | [Huawei](https://huaweicanada.recruitee.com/o/co-op-engineer-big-data-2?source=LinkedIn) | Vancouver | open ✅ | Co-op Engineer - AI & Big Data | Sep 10
 | [↳](https://huaweicanada.recruitee.com/o/co-op-assistant-software-engineer-mobile-ai-2-3?source=LinkedIn) | Markhan, ON | open ✅ | Co-op Assistant Engineer - Mobile AI | Sep 10
