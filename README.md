@@ -17,6 +17,11 @@ To contribute:
 | Company | Location | Status | Role | Date Posted
 | --------- | -------- | ------- | -------------------- | -------
 | **Company Name / ↳** | Location | open ✅ / closed 🚫 | Role | Date Posted
+| **[Capital One](https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Full-Stack-Software-Engineer--Intern--Winter-2025-_R196674)** | Toronto, ON | open ✅ | Full Stack Software Engineer, Intern (Winter 2025) | Sep 9
+| **[Irving Oil](https://irvingoil.wd3.myworkdayjobs.com/en-US/IOL_Careers_CoopStudent/job/Saint-John/Software-Developer-Student_R125064)** | Saint John | open ✅ | Software Developer Student | Sep 11
+| **[Ericsson](https://jobs.ericsson.com/careers/job/563121760784836?jobPipeline=LinkedIn&domain=ericsson.com)** | Vitoria, Vancouver | open ✅ | Software Developer Intern | Sep 10
+| **[IBM](https://careers.ibm.com/job/21000011/software-deloper-intern-may-2025-16-months-markham-ca/?codes=WEB_SEARCH_NA)** | Markham | open ✅ | Software Deloper Intern (May 2025 – 16 months) | Sep 11
+| **[Achievers](https://jobs.lever.co/achievers/7dfdb8a3-b649-4be2-82d6-ddadd7f00483)** | Toronto | open ✅ | Software Developer Co-op (4 months) | Sep 11
 | [Amazon](https://www.amazon.jobs/en/jobs/2770360/neuron-compiler-software-engineer-intern-annapurna-ml) | Toronto | open ✅ | Neuron Compiler Software Engineer Intern, Annapurna ML | Sep 10
 | [Dash Hudson](https://www.linkedin.com/jobs/view/development-intern-at-dash-hudson-4021747333/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic&originalSubdomain=ca) | Halifax, NS | open ✅ | Development Intern | Sep 10
 | [Kinaxis](https://careers-kinaxis.icims.com/jobs/31941/co-op-intern-site-reliability-engineer/job) | Ottawa | open ✅ | Co-op/Intern Site Reliability Engineer | Sep 10
