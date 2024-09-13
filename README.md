@@ -16,7 +16,18 @@ To contribute:
 
 | Company | Location | Status | Role | Date Posted
 | --------- | -------- | ------- | -------------------- | -------
-| **Company Name / ↳** | Location | open ✅ / closed 🚫 | Role | Date Posted
+| **Company Name / ↳** | Location | open ✅ / closed 🚫| Role | Date Posted
+| [**Tech**](https://jobs.teck.com/job/Vancouver-Global-Talent-Technology-Co-op-Brit/1208001500/?feedId=252500&utm_source=LIJobWrapping&utm_campaign=Teck_LL) | Vancouver | open ✅ | Global Talent Technology Co-op | Sep 12
+| [**Cresta**](https://job-boards.greenhouse.io/cresta/jobs/4123841008) | Toronto | open ✅ | Software Engineer, Fullstack (Intern) | Sep 12
+| [**↳**](https://job-boards.greenhouse.io/cresta/jobs/4123863008) | Toronto | open ✅ | Machine Learning Engineer, Intern | Sep 12
+| [**whatnot**](https://job-boards.greenhouse.io/whatnot/jobs/5247639004) | Remote | open ✅ | Summer 2025 Software Engineer Intern - US & Canada | Sep 12
+| [**Intel**](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Software-and-IP-Engineering---Internship-Positions_JR0267561) | Toronto | open ✅ | Software and IP Engineering – Internship Positions | Sep 12
+| [**Epic Games**](https://boards.greenhouse.io/embed/job_app?token=5290681004&gh_src=32b5d0474us) | Montreal | open ✅ | Gameplay Programmer Intern | Unknown
+| [**SAP**](https://jobs.sap.com/job/Vancouver-SAP-iXp-Intern-Application-Gateway%2C-Software-Developer-Vancouver-Brit-V6B-1A9/1119319101/) | Vancouver | open ✅ | SAP iXp Intern - Application Gateway, Software Developer [Vancouver] | Sep 11
+| [**↳**](https://jobs.sap.com/job/Vancouver-SAP-iXp-Intern-Agile-Developer%2C-HANA-and-Analytics-Brit-V6B-1A9/1119891201/) | Vancouver | open ✅ | SAP iXp Intern - Agile Developer, HANA and Analytics | Sep 11
+| [**Nasdaq**](https://nasdaq.wd1.myworkdayjobs.com/en-US/Global_External_Site/job/Verafin---Software-Development-Student_R0020183) | Toronto, St. John's  | open ✅ | Verafin - Software Development Student | Sep 12
+| [**CGI**](https://cgi.njoyn.com/corp/xweb/xweb.asp?Page=JobDetails&CLID=21001&JobID=J0924-0688&SBDID=1) | Halifax, Fredericton, Charlottetown, Remote | open ✅ | Winter 2025 Co-op: Technology Consultant (Undergraduate Co-op) | Sep 12
+| [**Kardium Inc**](https://can241.dayforcehcm.com/CandidatePortal/en-CA/kardium/Posting/View/845?src=LinkedIn) | Burnaby, BC | open ✅ | Biomedical Systems Engineering Co-op (Hybrid) | Aug 23
 | **[Capital One](https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Full-Stack-Software-Engineer--Intern--Winter-2025-_R196674)** | Toronto, ON | open ✅ | Full Stack Software Engineer, Intern (Winter 2025) | Sep 9
 | **[Irving Oil](https://irvingoil.wd3.myworkdayjobs.com/en-US/IOL_Careers_CoopStudent/job/Saint-John/Software-Developer-Student_R125064)** | Saint John | open ✅ | Software Developer Student | Sep 11
 | **[Ericsson](https://jobs.ericsson.com/careers/job/563121760784836?jobPipeline=LinkedIn&domain=ericsson.com)** | Vitoria, Vancouver | open ✅ | Software Developer Intern | Sep 10
