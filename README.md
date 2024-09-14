@@ -17,6 +17,7 @@ To contribute:
 | Company | Location | Status | Role | Date Posted
 | --------- | -------- | ------- | -------------------- | -------
 | **Company Name / ↳** | Location | open ✅ / closed 🚫| Role | Date Posted
+| [**Telus**](https://careers.telus.com/job/Vancouver-Engineering%2C-Technology-and-Business-Co-op-BC-V6B-0M3/584559217/) | Multiple | open ✅ | Engineering, Technology and Business Co-op | Unknown
 | [**Tech**](https://jobs.teck.com/job/Vancouver-Global-Talent-Technology-Co-op-Brit/1208001500/?feedId=252500&utm_source=LIJobWrapping&utm_campaign=Teck_LL) | Vancouver | open ✅ | Global Talent Technology Co-op | Sep 12
 | [**Cresta**](https://job-boards.greenhouse.io/cresta/jobs/4123841008) | Toronto | open ✅ | Software Engineer, Fullstack (Intern) | Sep 12
 | [**↳**](https://job-boards.greenhouse.io/cresta/jobs/4123863008) | Toronto | open ✅ | Machine Learning Engineer, Intern | Sep 12
