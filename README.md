@@ -17,6 +17,18 @@ To contribute:
 | Company | Location | Status | Role | Date Posted
 | --------- | -------- | ------- | -------------------- | -------
 | **Company Name / ↳** | Location | open ✅ / closed 🚫| Role | Date Posted
+| [**you.com**](https://home.you.com/careers/jobs?ashby_jid=27b354ed-cfcd-42e8-8a78-c4dcda5020fa) | Remote | open ✅ | Software Engineering Intern, Frontend | Sep 13
+| [**BMO**](https://bmo.wd3.myworkdayjobs.com/en-US/External/job/Software-Developer--Winter-2025--Co-op-Internship----4-Months_R240023386-2) | Toronto, ON, CAN | open ✅ | Software Developer, Winter 2025 (Co-op/Internship) – 4 Months | Sep 13
+| [**↳**](https://bmo.wd3.myworkdayjobs.com/en-US/External/job/Software-Developer--Winter-2025--Co-op-Internship----8-Months_R240023387-2) | Toronto, ON, CAN | open ✅ | Software Developer, Winter 2025 (Co-op/Internship) – 8 Months | Sep 13
+| [**Lyft**](https://app.careerpuck.com/job-board/lyft/job/7629317002?gh_jid=7629317002) | Toronto, Canada | open ✅ | Software Engineer Intern, Mobile Android - Toronto (Summer 2025) | Sep 13
+| [**↳**](https://app.careerpuck.com/job-board/lyft/job/7629311002?gh_jid=7629311002) | Toronto, Canada | open ✅ | Software Engineer Intern, Mobile iOS - Toronto (Summer 2025) | Sep 13
+| [**↳**](https://app.careerpuck.com/job-board/lyft/job/7619583002?gh_jid=7619583002) | Montreal | open ✅ | Software Engineer Intern, Backend - Montreal (Summer 2025) | Sep 13
+| [**↳**](https://app.careerpuck.com/job-board/lyft/job/7612143002?gh_jid=7612143002) | Toronto, Canada | open ✅ | Software Engineer Intern, Backend - Toronto (Summer 2025) | Sep 13
+| [**ABB**](https://careers.abb/global/en/job/ABB1GLOBAL93110632EXTERNALENGLOBAL/Software-Development-Intern-Software-Engineering?utm_source=linkedin&utm_medium=phenom-feeds) | Dorval, Quebec | open ✅ | Software Development Intern - Software Engineering | Sep 13
+| [**Magnet Forensics↳**](https://jobs.lever.co/magnetforensics/23b13847-2f59-4fc2-8333-f139cc69d9ca) | Halifax, Nova Scotia | open ✅ | Software Developer Co-op (Winter 2025) | Sep 13
+| [**↳**](https://jobs.lever.co/magnetforensics/2c169c3b-0d5b-43e0-90ba-41d369e10abb) | Waterloo / Ottawa / Ontario | open ✅ | Software Developer Co-op (Winter 2025) | Sep 13
+| [**CentML**](https://jobs.lever.co/centml/92742595-c466-4d82-b44c-547b5055bd2b) | Toronto, ON | open ✅ | Software Engineering Intern - Platform (12-16 Months, Summer 2025) | Sep 13
+| [**↳**](https://jobs.lever.co/centml/abc46a03-a09f-4333-b0ac-dea1c3c5c98e) | Toronto, ON | open ✅ | Software Engineering Intern - LLM Inference (12-16 Months, Summer 2025) | Sep 13
 | [**Telus**](https://careers.telus.com/job/Vancouver-Engineering%2C-Technology-and-Business-Co-op-BC-V6B-0M3/584559217/) | Multiple | open ✅ | Engineering, Technology and Business Co-op | Unknown
 | [**Tech**](https://jobs.teck.com/job/Vancouver-Global-Talent-Technology-Co-op-Brit/1208001500/?feedId=252500&utm_source=LIJobWrapping&utm_campaign=Teck_LL) | Vancouver | open ✅ | Global Talent Technology Co-op | Sep 12
 | [**Cresta**](https://job-boards.greenhouse.io/cresta/jobs/4123841008) | Toronto | open ✅ | Software Engineer, Fullstack (Intern) | Sep 12
