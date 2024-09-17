@@ -1,5 +1,7 @@
 # Canadian Tech Internships 2025
 
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=HassanChowdhry%2FCanadian-Tech-Internships-2025&label=Views&labelColor=%232ccce4&countColor=%23555555)](https://visitorbadge.io/status?path=HassanChowdhry%2FCanadian-Tech-Internships-2025)
+
 List of Canadian tech companies that are hiring interns for 2025 that are interested in tech, SWE, and related fields. Thanks to [Jenn Dryden](https://github.com/jenndryden/Canadian-Tech-Internships-Summer-2024) who made a similar repo for 2024 Canadian internships.
 
 Feel free to contribute however you can! Sharing and starring the repository really helps as well. Thanks for the support!
