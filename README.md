@@ -19,6 +19,14 @@ To contribute:
 | Company | Location | Status | Role | Date Posted
 | --------- | -------- | ------- | -------------------- | -------
 | **Company Name / ↳** | Location | open ✅ / closed 🚫| Role | Date Posted
+| [**Cohere**](https://jobs.lever.co/cohere/5a5e777a-8259-447d-b8bf-7b67c7b093b7) | Toronto | open ✅ | Software Engineer Intern/Co-op (Winter 2025) | Sep 17
+| [**↳**](https://jobs.lever.co/cohere/67b8ef9e-cf7b-4373-a6a1-8b98906fa719) | Toronto | open ✅ | Machine Learning Intern/Co-op (Winter 2025) | Sep 17
+| [**Pinterest**](https://www.pinterestcareers.com/jobs/6225207/software-engineering-intern-2025-toronto/?gh_jid=6225207#apply-now) | Toronto | open ✅ | Software Engineering Intern 2025 (Toronto) | Sep 17
+| [**Clio**](https://clio.wd3.myworkdayjobs.com/en-US/ClioCareerSite/job/Vancouver/Software-Developer--Co-op_REQ-1577?source=Linkedin) | Vancouver, Calgary, Toronto | open ✅ | Software Developer, Co-op | Sep 17
+| [**Blackberry**](https://bb.wd3.myworkdayjobs.com/en-US/Student/job/Software-Developer-Student---4-or-8-Month-Winter-Term_20240548) | Waterloo, Ontario | open ✅ | Software Developer Student - 4 or 8 Month Winter Term | Sep 11
+| [**↳**](https://bb.wd3.myworkdayjobs.com/en-US/Student/job/Software-Development-Student---8-Month-Winter-Term_20240556-1) | Waterloo, Ontario | open ✅ | Software Development Student - 8 Month Winter Term | Sep 12
+| [**↳**](https://bb.wd3.myworkdayjobs.com/en-US/Student/job/iOS-Software-Developer-Student---4-Month-Winter-Term_20240547) | Waterloo, Ontario | open ✅ | iOS Software Developer Student - 4 Month Winter Term | Sep 12
+| [**Confluent**](https://careers.confluent.io/jobs/14941884-2025-software-engineering-intern) | Remote, Ontario, Canada | open ✅ | 2025 Software Engineering Intern | N/A
 | [**you.com**](https://home.you.com/careers/jobs?ashby_jid=27b354ed-cfcd-42e8-8a78-c4dcda5020fa) | Remote | open ✅ | Software Engineering Intern, Frontend | Sep 13
 | [**BMO**](https://bmo.wd3.myworkdayjobs.com/en-US/External/job/Software-Developer--Winter-2025--Co-op-Internship----4-Months_R240023386-2) | Toronto, ON, CAN | open ✅ | Software Developer, Winter 2025 (Co-op/Internship) – 4 Months | Sep 13
 | [**↳**](https://bmo.wd3.myworkdayjobs.com/en-US/External/job/Software-Developer--Winter-2025--Co-op-Internship----8-Months_R240023387-2) | Toronto, ON, CAN | open ✅ | Software Developer, Winter 2025 (Co-op/Internship) – 8 Months | Sep 13
