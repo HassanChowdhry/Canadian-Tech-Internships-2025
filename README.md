@@ -19,6 +19,12 @@ To contribute:
 | Company | Location | Status | Role | Date Posted
 | --------- | -------- | ------- | -------------------- | -------
 | **Company Name / ↳** | Location | open ✅ / closed 🚫| Role | Date Posted
+| [**Doordash**](https://careers.doordash.com/jobs/software-engineer-intern-2024-25---toronto-university-recruiting/6247028/) | Toronto | open ✅ | Software Engineer, Intern, 2024/25 - Toronto (University Recruiting) | Sep 19
+| [**FullScript**](https://jobs.lever.co/fullscript/a2563d5d-9814-47bf-b8a1-3898a42c29ee) | Ottawa | open ✅ | Co-op/Intern DevOps Engineer (Winter 2025) | Sep 18
+| [**↳**](https://jobs.lever.co/fullscript/bcf00242-0247-459c-883e-cce1ee2a225d) | Ottawa | open ✅ | Co-op/Intern Ruby Engineer (Winter 2025) | Sep 18
+| [**↳**](https://jobs.lever.co/fullscript/e4178a47-1a99-4f0b-8cb7-e4274b360041) | Ottawa | open ✅ | Co-op/Intern Developer Experience Engineer (Winter 2025) | Sep 18
+| [**Coveo**](https://www.coveo.com/en/company/careers/open-positions/sales/sales-engineering/software-developer-intern-solutions-engineering-winter-2025/7624866002?gh_jid=7624866002) | Montreal / Quebec City | open ✅ | Software Developer Intern (Solutions Engineering), Winter 2025 | Sep 18
+| [**↳**](https://www.coveo.com/en/company/careers/open-positions/research-and-development/fullstack-developer-intern-winter-2025/7621464002?gh_jid=7621464002) | Montreal / Quebec City | open ✅ | Fullstack Developer Intern, Winter 2025 | Sep 18
 | [**Cohere**](https://jobs.lever.co/cohere/5a5e777a-8259-447d-b8bf-7b67c7b093b7) | Toronto | open ✅ | Software Engineer Intern/Co-op (Winter 2025) | Sep 17
 | [**↳**](https://jobs.lever.co/cohere/67b8ef9e-cf7b-4373-a6a1-8b98906fa719) | Toronto | open ✅ | Machine Learning Intern/Co-op (Winter 2025) | Sep 17
 | [**Pinterest**](https://www.pinterestcareers.com/jobs/6225207/software-engineering-intern-2025-toronto/?gh_jid=6225207#apply-now) | Toronto | open ✅ | Software Engineering Intern 2025 (Toronto) | Sep 17
