@@ -19,6 +19,11 @@ To contribute:
 | Company | Location | Status | Role | Date Posted
 | --------- | -------- | ------- | -------------------- | -------
 | **Company Name / ↳** | Location | open ✅ / closed 🚫| Role | Date Posted
+| [**Planview**](https://careers.planview.com/careers-home/jobs/4409?lang=en-us&iis=Job%20Board&iisn=Linkedin) | Vancouver, Canada | open ✅ | Software Engineer I - Coop/Intern (Cloud) | Sep 21
+| [**↳**](https://careers.planview.com/careers-home/jobs/4438?lang=en-us&iis=Job%20Board&iisn=Linkedin) | Vancouver, Canada | open ✅ | Software Engineer I - Coop/Intern (Copilot) | Sep 21
+| [**↳**](https://careers.planview.com/careers-home/jobs/4407?lang=en-us&iis=Job%20Board&iisn=Linkedin) | Vancouver, Canada | open ✅ | Software Engineer I - Coop/Intern (HUB) | Sep 21
+| [**↳**](https://careers.planview.com/careers-home/jobs/4440?lang=en-us&iis=Job%20Board&iisn=Linkedin) | Vancouver, Canada | open ✅ | Software Engineer I - Coop/Intern (Viz) | Sep 21
+| **Remitly** | New Westminster, British Columbia, Canada | open ✅ | Software Engineering Co-op Jan 2025 | Sep 17
 | [**Doordash**](https://careers.doordash.com/jobs/software-engineer-intern-2024-25---toronto-university-recruiting/6247028/) | Toronto | open ✅ | Software Engineer, Intern, 2024/25 - Toronto (University Recruiting) | Sep 19
 | [**FullScript**](https://jobs.lever.co/fullscript/a2563d5d-9814-47bf-b8a1-3898a42c29ee) | Ottawa | open ✅ | Co-op/Intern DevOps Engineer (Winter 2025) | Sep 18
 | [**↳**](https://jobs.lever.co/fullscript/bcf00242-0247-459c-883e-cce1ee2a225d) | Ottawa | open ✅ | Co-op/Intern Ruby Engineer (Winter 2025) | Sep 18
