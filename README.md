@@ -19,6 +19,12 @@ To contribute:
 | Company | Location | Status | Role | Date Posted
 | --------- | -------- | ------- | -------------------- | -------
 | **Company Name / ↳** | Location | open ✅ / closed 🚫| Role | Date Posted
+| [**Hitachi**](https://gtsgbu.wd3.myworkdayjobs.com/Careers/job/Toronto/Software-Analyst---Intern_R1007133-1?source=LinkedIn) | Toronto | open ✅ | Software Analyst Intern | Sep 25
+| [**American Express**](https://aexp.eightfold.ai/careers/job/25173134?domain=aexp.com&utm_source=linkedin) | Toronto | open ✅ | Technology Software Engineer Intern - Winter 2025 | Sep 25
+| [**Potential**](https://jobs.lever.co/PotentialMotors/2a707752-8f00-45e0-8e46-6b742cd00422/apply?lever-source=LinkedIn) | Fredrickton, NB | open ✅ | AI Software Intern | Sep 24
+| [**AMD**](https://careers.amd.com/careers-home/jobs/54041?lang=en-us&iis=Job%20Board&iisn=Linkedin) | MARKHAM | open ✅ | Software Engineering Intern/Co-Op (Undergrad ,Summer, 2025 , Onsite/Hybrid) | Sep 24
+| [**Epic Games**](https://www.epicgames.com/site/en-US/careers/jobs/5278378004?gh_jid=5278378004) | Montreal | open ✅ | Software Programmer Intern | Sep 24
+| [**Autodesk**](https://autodesk.wd1.myworkdayjobs.com/en-US/Ext/details/Intern--Software-Developer--Canada-_24WD81949-1?workerSubType=39f5af07b0c54bc588b1a47788da7f81) | Toronto | open ✅ | Intern, Data Developer | Sep 25
 | [**Planview**](https://careers.planview.com/careers-home/jobs/4409?lang=en-us&iis=Job%20Board&iisn=Linkedin) | Vancouver, Canada | open ✅ | Software Engineer I - Coop/Intern (Cloud) | Sep 21
 | [**↳**](https://careers.planview.com/careers-home/jobs/4438?lang=en-us&iis=Job%20Board&iisn=Linkedin) | Vancouver, Canada | open ✅ | Software Engineer I - Coop/Intern (Copilot) | Sep 21
 | [**↳**](https://careers.planview.com/careers-home/jobs/4407?lang=en-us&iis=Job%20Board&iisn=Linkedin) | Vancouver, Canada | open ✅ | Software Engineer I - Coop/Intern (HUB) | Sep 21
