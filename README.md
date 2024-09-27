@@ -19,6 +19,15 @@ To contribute:
 | Company | Location | Status | Role | Date Posted
 | --------- | -------- | ------- | -------------------- | -------
 | **Company Name / ↳** | Location | open ✅ / closed 🚫| Role | Date Posted
+| [**Hubspot**](https://www.hubspot.com/careers/jobs/6255230?hubs_signup-cta=careers-apply) | Toronto | open ✅ | HubSpot Software Engineer Internship & Co-op Program (Canada) | Sep 26
+| [**Autodesk**](https://autodesk.wd1.myworkdayjobs.com/en-US/Ext/job/Intern--Data-Developer_24WD82136-1) | Toronto | open ✅ | Intern, Data Developer | Sep 26
+| [**Uber**](https://university-uber.icims.com/jobs/135409/job?mobile=false&width=1030&height=500&bga=true&needsRedirect=false&jan1offset=-240&jun1offset=-180) | Toronto | open ✅ | 2025 Software Engineer Internship, Canadian Schools | Sep 25
+| [**Invinity**](https://jobs.lever.co/invinity/f69558c2-0610-4560-a1fb-015c7746b9cf) | Vancouver, BC | open ✅ | Software Engineer Intern, User Interface | Sep 25
+| [**Ericsson**](https://jobs.ericsson.com/careers/job/563121761204668?pid=563121761204668&location=Vancouver%2C%20BC%2C%20Canada&recommended=1) | Mississauga, Ontario, Canada | open ✅ | Software Developer Intern | Sep 26
+| [**Lightspeed**](https://job-boards.greenhouse.io/lightspeedhq/jobs/6245166?gh_src=ra52sj1) | Montreal | open ✅ | Software Developer Intern (4 month contract) | Sep 26
+| [**IBM**](https://careers.ibm.com/job/21040377/software-developer-co-op-jan-2025-4-months-markham-ca/?codes=WEB_SEARCH_NA)| Markham | open ✅ | Software Developer Co-op (Jan 2025 – 4 months) | Unknown
+| [**↳**](https://careers.ibm.com/job/21069703/front-end-developer-co-op-may-2025-16-months-markham-ca/?codes=WEB_SEARCH_NA) | Markham | open ✅ | Front-End Developer Co-op (May 2025 – 16 months) | Unknown
+| [**↳**](https://www.ibm.com/careers/search?field_keyword_18[0]=Intern&field_keyword_05[0]=Canada) | Markham | open ✅ | Many | Unknown
 | [**Hitachi**](https://gtsgbu.wd3.myworkdayjobs.com/Careers/job/Toronto/Software-Analyst---Intern_R1007133-1?source=LinkedIn) | Toronto | open ✅ | Software Analyst Intern | Sep 25
 | [**American Express**](https://aexp.eightfold.ai/careers/job/25173134?domain=aexp.com&utm_source=linkedin) | Toronto | open ✅ | Technology Software Engineer Intern - Winter 2025 | Sep 25
 | [**Potential**](https://jobs.lever.co/PotentialMotors/2a707752-8f00-45e0-8e46-6b742cd00422/apply?lever-source=LinkedIn) | Fredrickton, NB | open ✅ | AI Software Intern | Sep 24
