@@ -19,6 +19,9 @@ To contribute:
 | Company | Location | Status | Role | Date Posted
 | --------- | -------- | ------- | -------------------- | -------
 | **Company Name / ↳** | Location | open ✅ / closed 🚫| Role | Date Posted
+| [**Google**](https://www.google.com/about/careers/applications/jobs/results/90849384886870726-software-developer-intern-bs-summer-2025) | Toronto, Waterloo, Montreal | open ✅ | Software Developer Intern, BS, Summer 2025 | Oct 1
+| [**↳**](https://www.google.com/about/careers/applications/jobs/results/109828158173127366-step-intern-second-year-bachelors-student-summer-2025) | Toronto, Waterloo, Montreal | open ✅ | STEP Intern, Second Year Bachelor's Student, Summer 2025 | Oct 1
+| [**Khan Academy**](https://boards.greenhouse.io/khanacademy/jobs/6257065) | Remote Canada | open ✅ | Software Engineer Intern | Oct 1
 | [**Hubspot**](https://www.hubspot.com/careers/jobs/6255230?hubs_signup-cta=careers-apply) | Toronto | open ✅ | HubSpot Software Engineer Internship & Co-op Program (Canada) | Sep 26
 | [**Autodesk**](https://autodesk.wd1.myworkdayjobs.com/en-US/Ext/job/Intern--Data-Developer_24WD82136-1) | Toronto | open ✅ | Intern, Data Developer | Sep 26
 | [**Uber**](https://university-uber.icims.com/jobs/135409/job?mobile=false&width=1030&height=500&bga=true&needsRedirect=false&jan1offset=-240&jun1offset=-180) | Toronto | open ✅ | 2025 Software Engineer Internship, Canadian Schools | Sep 25
