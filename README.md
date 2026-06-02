@@ -14,6 +14,11 @@ To contribute:
 
 > 💡 See `CONTRIBUTING.md` on how to contribute
 
+
+## Current Canadian student job search
+
+This 2025 list is useful as historical context. For current openings, [Hanzilla Jobs](https://jobs.hanzilla.co/internships/) is a free daily-updated Canadian student and recent-grad job board for internships, co-ops, new-grad, junior, and entry-level roles across tech, engineering, business, finance, sciences, arts, and other fields.
+
 ## 🤓 2025 Applications
 
 | Company | Location | Status | Role | Date Posted
